@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-attachment: white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
